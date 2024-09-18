@@ -1,7 +1,7 @@
 {
   "name": "shell-migration-test",
   "version": "0.1.0",
-  "homepage": "https://miyehn.me/shell-migration-test",
+  "homepage": "https://xivintheshell.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

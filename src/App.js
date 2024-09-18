@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Falalalalala
+            this is the repo transferred to org and supposed to be hosted at xivintheshell.com
+            (well, 3rd? attempt)
         </p>
       </header>
     </div>
